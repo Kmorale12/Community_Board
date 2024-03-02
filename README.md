@@ -25,7 +25,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://github.com/Kmorale12/Community_Board/blob/6c9d7743fe2012b972e34a2e9ad994a1c9825dd1/walkthrough-video.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
