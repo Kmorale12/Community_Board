@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Farmers Market Schedule",
+      "description": "Find out when and where local farmers markets are happening.",
+      "button_text": "More Info"
+    },
+    {
+      "id": 2,
+      "name": "Cooking Classes",
+      "description": "Learn new culinary skills from local chefs.",
+      "button_text": "Register Now"
+    },
+    {
+      "id": 3,
+      "name": "Restaurant Week",
+      "description": "Explore special menus and deals at participating restaurants.",
+      "button_text": "View Menus"
+    },
+    {
+      "id": 4,
+      "name": "Food Truck Festival",
+      "description": "Enjoy a variety of cuisines from food trucks gathered in one location.",
+      "button_text": "See Food Trucks"
+    },
+    {
+      "id": 5,
+      "name": "Wine Tasting Events",
+      "description": "Sample wines from local vineyards and wineries.",
+      "button_text": "Taste Wines"
+    },
+    {
+      "id": 6,
+      "name": "Community Potluck",
+      "description": "Bring a dish to share with neighbors and enjoy a meal together.",
+      "button_text": "Join Potluck"
+    },
+    {
+      "id": 7,
+      "name": "Cookbook Club Meetings",
+      "description": "Discuss and sample recipes from a chosen cookbook each month.",
+      "button_text": "Join Club"
+    },
+    {
+      "id": 8,
+      "name": "Gardening Workshops",
+      "description": "Learn about growing your own fruits and vegetables.",
+      "button_text": "Attend Workshop"
+    },
+    {
+      "id": 9,
+      "name": "Culinary Tours",
+      "description": "Explore local eateries and taste their specialties.",
+      "button_text": "Book Tour"
+    },
+    {
+      "id": 10,
+      "name": "Healthy Eating Seminars",
+      "description": "Get tips on nutrition and healthy eating habits.",
+      "button_text": "Learn More"
+    },
+    {
+      "id": 11,
+      "name": "Local Brewery Tours",
+      "description": "Explore the local craft beer scene with guided brewery tours.",
+      "button_text": "Discover Breweries"
+    },
+    {
+      "id": 12,
+      "name": "Community Cookbook Exchange",
+      "description": "Share your favorite recipes and discover new ones from fellow community members.",
+      "button_text": "Share Recipes"
+    }
+  ]
+  

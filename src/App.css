@@ -1,0 +1,54 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
+  color: black;
+  background-color: rgb(217, 174, 174);
+}
+
+
+ body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+.card {
+  border: 1px solid #484141;
+  border-radius: 4px;
+  padding: 16px;
+  margin: 16px;
+  text-align: center;
+  background-color: #f0f0f0;
+  flex: 0 1 200px; /* flex-grow | flex-shrink | flex-basis */
+}
+
+.card-content {
+  padding: 16px;
+}
+
+.card-button {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  width: 100px; /* add this */
+  height: 50px; /* add this */
+  background-color: lightblue; /* add this */
+}
+.app {
+  padding: 16px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap; /* this will make the cards wrap onto the next line when they reach the end of the page */
+  justify-content: space-around; /* this will distribute the remaining space evenly around the cards */
+}
+.app-title {
+  text-align: center;
+  color: #333;
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
